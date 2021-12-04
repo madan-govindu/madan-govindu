@@ -7,3 +7,7 @@
 madan-govindu/madan-govindu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# Goals
+
+By 2022: Very strong in Technology, Architecture and start a startup company
